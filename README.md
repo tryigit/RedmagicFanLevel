@@ -7,4 +7,4 @@ All fan settings for Redmagic. It may be dangerous*
 >You can use MT Manager.
 
 ## Telegram
-https://t.me/chinacloudgroup
+https://t.me/cleverestech
